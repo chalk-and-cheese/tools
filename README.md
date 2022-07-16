@@ -1,2 +1,2 @@
-# tools
-Tools for frontend developers
+# @chalk-and-cheese/tools
+Monorepor tools for frontend developers.
